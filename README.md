@@ -29,6 +29,7 @@
 |PHP-ja|Programming Language|Japanese|<https://twitter.com/i/communities/1497741277789835264>|
 |Pythonジャパン|Programming Language|Japanese|<https://twitter.com/i/communities/1498184748728205315>|
 |Scala JP|Programming Language|Japanese|<https://twitter.com/i/communities/1500072882822868998>|
+|Smalltalk|Programming Language|Japanese|<https://twitter.com/i/communities/1500034998426300417>|
 |The Go Programming Language|Programming Language|English|<https://twitter.com/i/communities/1493637136502960134>|
 |TypeScript|Programming Language|Japanese|<https://twitter.com/i/communities/1499329858178289664>|
 |WebAssembly|Programming Language|English|<https://twitter.com/i/communities/1497545442023944192>|
